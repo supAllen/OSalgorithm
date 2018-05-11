@@ -5,6 +5,7 @@ package OSInterview;
  * @Description:    字符串匹配——Sunday算法
  *
  * 参考博客链接： https://blog.csdn.net/q547550831/article/details/51860017
+ * BM算法研究链接： 有兴趣的话可以看 http://blog.jobbole.com/52830/
  *
  * @Date: Created in 13:28 2018/5/11
  * @Modify By:
